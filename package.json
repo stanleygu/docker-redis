@@ -1,0 +1,23 @@
+{
+  "name": "docker-redis",
+  "version": "0.0.1",
+  "description": "Docker container for a redis service",
+  "main": "Dockerfile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stanleygu/docker-redis.git"
+  },
+  "keywords": [
+    "docker",
+    "redis"
+  ],
+  "author": "Stanley Gu <stanleygu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanleygu/docker-redis/issues"
+  },
+  "homepage": "https://github.com/stanleygu/docker-redis"
+}
